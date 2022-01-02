@@ -1,5 +1,5 @@
 # Traffic-Racer
-Simple project developed in university.
+Simple project developed for an exam.
 
 Software required: Logisim.
 
